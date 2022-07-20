@@ -1,4 +1,18 @@
-1. Xiaomi Mi 12pro
+1. Xiaomi 12pro
+-Procesador: Snapdragon 8 Gen 1 3GHz
+-RAM: 8GB/12GB
+-Batería: 4600 mAh
 2. Xiaomi Poco F4 Gt
+-Procesador: Snapdragon 8 Gen 1 3GHz
+-RAM: 8GB/12GB
+-Batería 4700 mAh
+-Carga rápida 120 W
 3. Xiaomi Mi10T 5g
+-PROCESADOR Snapdragon 865 + módem 5G
+-RAM 6/8 GB LPDDR5X
+-BATERÍA 5.000 mAh + carga rápida 33W
 4. Xiaomi Poco x3Pro
+-PROCESADOR Qualcomm Snapdragon 860
+-RAM 6 / 8 GB LPDDR4X
+-BATERÍA 5.160 mAh
+-Carga rápida 33 W
